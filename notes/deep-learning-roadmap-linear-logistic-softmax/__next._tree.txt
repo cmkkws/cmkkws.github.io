@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/0myapzdtajin_.css","style"]
-:HL["/_next/static/chunks/0asprsy1537i_.css","style"]
+:HL["/_next/static/chunks/0z52fy3yb-peg.css","style"]
 :HL["/_next/static/chunks/066ulbb7a-n93.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"deep-learning-roadmap-linear-logistic-softmax","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"FH3153TZy01CieQti0VMc"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"deep-learning-roadmap-linear-logistic-softmax","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"vafGENUxFKAh9xOmFDcXc"}
