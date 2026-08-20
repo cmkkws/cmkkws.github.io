@@ -1,5 +1,4 @@
 User-Agent: *
 Allow: /
-Disallow: /write
 
 Sitemap: https://cmkkws.github.io/sitemap.xml
