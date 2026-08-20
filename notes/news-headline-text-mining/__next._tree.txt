@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/0xrwm.qh3e24c.css","style"]
-:HL["/_next/static/chunks/0z6bz8agqwkt_.css","style"]
-:HL["/_next/static/chunks/0ohab64yltxo5.css","style"]
+:HL["/_next/static/chunks/0me_4-innw4vv.css","style"]
+:HL["/_next/static/chunks/0qc2l_6vl_w52.css","style"]
+:HL["/_next/static/chunks/0l2c8lgmmrb.4.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"news-headline-text-mining","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"rvpRf5Imnjo6QBlX2qX4Q"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"news-headline-text-mining","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"GX2g5Ik7ev2J0nf_pd0Mh"}
