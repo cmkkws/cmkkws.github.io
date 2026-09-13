@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://cmkkws.github.io</loc>
-<lastmod>2026-08-30T00:00:00.000Z</lastmod>
+<lastmod>2026-09-13T00:00:00.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -40,6 +40,12 @@
 <loc>https://cmkkws.github.io/learning/information-theory</loc>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
+</url>
+<url>
+<loc>https://cmkkws.github.io/notes/jit-la-01</loc>
+<lastmod>2026-09-13T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
 </url>
 <url>
 <loc>https://cmkkws.github.io/notes/basic-cnn-visual-guide</loc>
