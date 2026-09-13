@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/06t29lr0srb6a.css","style"]
 :HL["/_next/static/chunks/0zokladq45l.8.css","style"]
-:HL["/_next/static/chunks/0l032kyq3j~cd.css","style"]
+:HL["/_next/static/chunks/0pcv-vvf8.gv7.css","style"]
 :HL["/_next/static/chunks/0g9q6og_aa_s0.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"learning","param":null,"prefetchHints":0,"slots":{"children":{"name":"topic","param":{"type":"d","key":"deep-learning","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"xQJAV3jSX0fdmCv908-ud"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"learning","param":null,"prefetchHints":0,"slots":{"children":{"name":"topic","param":{"type":"d","key":"deep-learning","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"EeOtDLLkXIFUsNZEOt4EK"}
