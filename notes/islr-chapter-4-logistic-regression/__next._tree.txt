@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/06t29lr0srb6a.css","style"]
 :HL["/_next/static/chunks/0zokladq45l.8.css","style"]
-:HL["/_next/static/chunks/0t-ck2rgqgb9u.css","style"]
+:HL["/_next/static/chunks/0l032kyq3j~cd.css","style"]
 :HL["/_next/static/chunks/0g9q6og_aa_s0.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"islr-chapter-4-logistic-regression","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"CJD0-URaazIo5p9N-EVgB"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"islr-chapter-4-logistic-regression","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"xQJAV3jSX0fdmCv908-ud"}
