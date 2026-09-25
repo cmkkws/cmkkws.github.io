@@ -3,4 +3,4 @@
 :HL["/_next/static/chunks/16~hyvwj4tybm.css","style"]
 :HL["/_next/static/chunks/0tjn4z-stgipq.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"islr-chapter-6-model-selection-regularization","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"63X7XAK3rsGlgFTK67PCd"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"islr-chapter-6-model-selection-regularization","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"6mVGkRG3lXKv8_Hy1CPNM"}
