@@ -1,7 +1,7 @@
 :HL["/_next/static/chunks/0qx4zgrzyff2q.css","style"]
-:HL["/_next/static/chunks/0_9y-j23fde1a.css","style"]
+:HL["/_next/static/chunks/080.x~~e13uja.css","style"]
 :HL["/_next/static/chunks/041ibd9g4crll.css","style"]
 :HL["/_next/static/chunks/12mxmo93zvi9n.css","style"]
-:HL["/_next/static/chunks/049y844n1a57w.css","style"]
+:HL["/_next/static/chunks/02_9j89hbz.tn.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"machine-learning-2","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"fTxzNlFKzsdLvnbysj1J2"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"machine-learning-2","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QQcCLjm6X_1pwXVUAWINm"}
