@@ -1,0 +1,503 @@
+1:"$Sreact.fragment"
+2:I[10697,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js"],"ThemeSync"]
+3:I[72115,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js"],"SiteMotionObserver"]
+4:I[76888,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js"],"default"]
+5:I[47114,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js"],"default"]
+6:I[31148,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js","/_next/static/chunks/12hy9wrxdev~4.js","/_next/static/chunks/0o9y1-lb7j9_1.js"],"DocumentationNavigation"]
+f:I[15225,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js"],"default",1]
+:HL["/_next/static/chunks/0qx4zgrzyff2q.css","style"]
+:HL["/_next/static/chunks/03r9b02._uxa7.css","style"]
+:HL["/_next/static/chunks/041ibd9g4crll.css","style"]
+:HL["/_next/static/chunks/12mxmo93zvi9n.css","style"]
+:HL["/_next/static/chunks/0knusf6~dmwu9.css","style"]
+:HC["/",""]
+0:{"P":null,"c":["","practice","models","transformer",""],"q":"","i":false,"f":[[["",{"children":["practice",{"children":["models",{"children":["transformer",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0qx4zgrzyff2q.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/03r9b02._uxa7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/041ibd9g4crll.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/12mxmo93zvi9n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/0knusf6~dmwu9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/04opn5reav6.l.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0ig2i56s.ue9f.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ko","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(() => { try { const saved = localStorage.getItem(\"layerlab-theme\"); const theme = saved === \"dark\" || saved === \"light\" ? saved : matchMedia(\"(prefers-color-scheme: dark)\").matches ? \"dark\" : \"light\"; document.documentElement.classList.toggle(\"dark\", theme === \"dark\"); document.documentElement.dataset.theme = theme; } catch { document.documentElement.dataset.theme = \"light\"; } })();"},"id":"theme-initializer"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"김우식 포트폴리오\",\"url\":\"https://cmkkws.github.io\",\"inLanguage\":\"ko-KR\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://cmkkws.github.io/search?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}},{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"김우식\",\"url\":\"https://cmkkws.github.io\",\"sameAs\":[\"https://github.com/cmkkws\",\"https://velog.io/@cmkkws/posts\"],\"knowsAbout\":[\"추천 시스템\",\"정보검색\",\"머신러닝\",\"통계 분석\"]}]"},"id":"portfolio-structured-data","type":"application/ld+json"}]]}],["$","body",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"archive-site","children":[["$","$L6",null,{"groups":[{"label":"선형대수","href":"/learning#field-linear-algebra","links":[{"href":"/notes/jit-la-01","title":"LA-01 — Scalar, Vector, Matrix, Tensor","id":"LA-01"},{"href":"/notes/jit-la-02","title":"LA-02 — Vector and Matrix Reduction / Pooling","id":"LA-02"},{"href":"/notes/jit-la-03","title":"LA-03 — Matrix Multiplication: 4 Perspectives","id":"LA-03"},{"href":"/notes/jit-la-04","title":"LA-04 — Kronecker Product & Hadamard Product","id":"LA-04"},{"href":"/notes/jit-la-05","title":"LA-05 — Block Matrix Operations & Tiling","id":"LA-05"},{"href":"/notes/jit-la-06","title":"LA-06 — Linear Combination, Span, Basis, & Dimension","id":"LA-06"},{"href":"/notes/jit-la-07","title":"LA-07 — Linear Transformation & Coordinate Change","id":"LA-07"},{"href":"/notes/jit-la-08","title":"LA-08 — Rotation Matrix & Complex-Plane Rotation","id":"LA-08"},{"href":"/notes/jit-la-09","title":"LA-09 — Kernel & Range (Null Space & Column Space)","id":"LA-09"},{"href":"/notes/jit-la-10","title":"LA-10 — Rank & Matrix Factorization","id":"LA-10"},{"href":"/notes/jit-la-11","title":"LA-11 — Dot Product & Inner Product Space","id":"LA-11"},{"href":"/notes/jit-la-12","title":"LA-12 — Vector and Matrix Norms (including RMS)","id":"LA-12"},{"href":"/notes/jit-la-13","title":"LA-13 — Orthogonality & Orthogonal Projection","id":"LA-13"},{"href":"/notes/jit-la-14","title":"LA-14 — Least Squares Approximation","id":"LA-14"},{"href":"/notes/jit-la-15","title":"LA-15 — Eigenvalues and Eigenvectors","id":"LA-15"},{"href":"/notes/jit-la-16","title":"LA-16 — Eigendecomposition & Diagonalization","id":"LA-16"},{"href":"/notes/jit-la-17","title":"LA-17 — Symmetric & Positive Definite Matrix","id":"LA-17"},{"href":"/notes/jit-la-18","title":"LA-18 — Singular Value Decomposition (SVD)","id":"LA-18"},{"href":"/notes/jit-la-19","title":"LA-19 — Low-Rank Approximation & Eckart–Young–Mirsky Theorem","id":"LA-19"},{"href":"/notes/jit-la-20","title":"LA-20 — Moore–Penrose Pseudoinverse","id":"LA-20"},{"href":"/notes/jit-la-21","title":"LA-21 — Covariance Matrix","id":"LA-21"}]},{"label":"확률·통계","href":"/learning#field-probability-statistics","links":[{"href":"/notes/jit-ps-01","title":"PS-01 — Probability Space & Axioms","id":"PS-01"},{"href":"/notes/jit-ps-02","title":"PS-02 — Conditional Probability, Chain Rule, & Bayes' Theorem","id":"PS-02"},{"href":"/notes/jit-ps-03","title":"PS-03 — Law of Total Probability & Bayes Theorem","id":"PS-03"},{"href":"/notes/jit-ps-04","title":"PS-04 — Random Variables & Distribution Functions (PMF, PDF, CDF)","id":"PS-04"},{"href":"/notes/jit-ps-05","title":"PS-05 — Joint, Marginal, & Conditional Distributions & Marginalization","id":"PS-05"},{"href":"/notes/jit-ps-06","title":"PS-06 — Expectation (Expected Value)","id":"PS-06"},{"href":"/notes/jit-ps-07","title":"PS-07 — Variance, Covariance, & Standard Deviation","id":"PS-07"},{"href":"/notes/jit-ps-08","title":"PS-08 — Standard Score (Z-score) & Normalization","id":"PS-08"},{"href":"/notes/jit-ps-09","title":"PS-09 — Categorical & Multinomial Distributions","id":"PS-09"},{"href":"/notes/jit-ps-10","title":"PS-10 — Gaussian Distribution & Normal CDF","id":"PS-10"},{"href":"/notes/jit-ps-11","title":"PS-11 — Likelihood, Log-Likelihood, & Negative Log-Likelihood","id":"PS-11"},{"href":"/notes/jit-ps-12","title":"PS-12 — Maximum Likelihood Estimation (MLE) & MAP","id":"PS-12"},{"href":"/notes/jit-ps-13","title":"PS-13 — Sampling Strategies (Decoding Sampling)","id":"PS-13"},{"href":"/notes/jit-ps-14","title":"PS-14 — Law of Large Numbers (LLN) & Central Limit Theorem (CLT)","id":"PS-14"},{"href":"/notes/jit-ps-15","title":"PS-15 — Pairwise Probability & Bradley-Terry Preference Model","id":"PS-15"},{"href":"/notes/jit-ps-16","title":"PS-16 — Power-Law Relationship & Empirical Data Fitting","id":"PS-16"},{"href":"/notes/jit-ps-17","title":"PS-17 — Coefficient of Variation (CV) & MoE Load Balancing","id":"PS-17"}]},{"label":"미적분·최적화","href":"/learning#field-calculus-optimization","links":[{"href":"/notes/jit-co-01","title":"CO-01 — Objective Function & Stationary Point","id":"CO-01"},{"href":"/notes/jit-co-02","title":"CO-02 — Derivative, Partial Derivative & Gradient","id":"CO-02"},{"href":"/notes/jit-co-03","title":"CO-03 — Directional Derivative & Steepest Descent","id":"CO-03"},{"href":"/notes/jit-co-04","title":"CO-04 — Chain Rule","id":"CO-04"},{"href":"/notes/jit-co-05","title":"CO-05 — Jacobian Matrix & Determinant","id":"CO-05"},{"href":"/notes/jit-co-06","title":"CO-06 — Hessian Matrix & Second-Order Taylor Expansion","id":"CO-06"},{"href":"/notes/jit-co-07","title":"CO-07 — Matrix Calculus (Identities & Layouts)","id":"CO-07"},{"href":"/notes/jit-co-08","title":"CO-08 — Numerical Stability & Log-Sum-Exp","id":"CO-08"},{"href":"/notes/jit-co-09","title":"CO-09 — Gradient Descent & Stochastic Gradient Descent (SGD)","id":"CO-09"},{"href":"/notes/jit-co-10","title":"CO-10 — Learning Rate & Momentum","id":"CO-10"},{"href":"/notes/jit-co-11","title":"CO-11 — Convex Sets & Convex Functions","id":"CO-11"},{"href":"/notes/jit-co-12","title":"CO-12 — Jensen’s Inequality","id":"CO-12"},{"href":"/notes/jit-co-13","title":"CO-13 — Regularization & Weight Decay","id":"CO-13"},{"href":"/notes/jit-co-14","title":"CO-14 — Curve Fitting & Scaling Laws","id":"CO-14"},{"href":"/notes/jit-co-15","title":"CO-15 — Constrained Optimization","id":"CO-15"},{"href":"/notes/jit-co-16","title":"CO-16 — Primal–Dual Problems","id":"CO-16"},{"href":"/notes/jit-co-17","title":"CO-17 — KKT Conditions","id":"CO-17"}]},{"label":"정보이론","href":"/learning#field-information-theory","links":[{"href":"/notes/jit-it-01","title":"IT-01 — Self-Information","id":"IT-01"},{"href":"/notes/jit-it-02","title":"IT-02 — Shannon Entropy","id":"IT-02"},{"href":"/notes/jit-it-03","title":"IT-03 — Binary Entropy","id":"IT-03"},{"href":"/notes/jit-it-04","title":"IT-04 — Joint Entropy","id":"IT-04"},{"href":"/notes/jit-it-05","title":"IT-05 — Conditional Entropy","id":"IT-05"},{"href":"/notes/jit-it-06","title":"IT-06 — Entropy Chain Rule","id":"IT-06"},{"href":"/notes/jit-it-07","title":"IT-07 — KL Divergence","id":"IT-07"},{"href":"/notes/jit-it-08","title":"IT-08 — Gibbs’ Inequality","id":"IT-08"},{"href":"/notes/jit-it-09","title":"IT-09 — Cross-Entropy and KL Divergence","id":"IT-09"},{"href":"/notes/jit-it-10","title":"IT-10 — Perplexity","id":"IT-10"},{"href":"/notes/jit-it-11","title":"IT-11 — Mutual Information","id":"IT-11"},{"href":"/notes/jit-it-12","title":"IT-12 — Conditional Mutual Information","id":"IT-12"},{"href":"/notes/jit-it-13","title":"IT-13 — Entropy Venn Diagram","id":"IT-13"},{"href":"/notes/jit-it-14","title":"IT-14 — Data Processing Inequality","id":"IT-14"},{"href":"/notes/jit-it-15","title":"IT-15 — Discrete and Differential Entropy","id":"IT-15"},{"href":"/notes/jit-it-16","title":"IT-16 — AEP and Typical Set","id":"IT-16"},{"href":"/notes/jit-it-17","title":"IT-17 — Source Coding and Kraft Inequality","id":"IT-17"},{"href":"/notes/jit-it-18","title":"IT-18 — Channel Capacity and Coding Theorem","id":"IT-18"},{"href":"/notes/jit-it-19","title":"IT-19 — Entropy Rate","id":"IT-19"},{"href":"/notes/jit-it-20","title":"IT-20 — Rate-Distortion Theory","id":"IT-20"},{"href":"/notes/jit-it-21","title":"IT-21 — Maximum Entropy Principle","id":"IT-21"}]},{"label":"ML·DL","href":"/learning#field-ml-deep-learning","links":[{"href":"/notes/jit-ml-01","title":"ML-01 — Loss, Risk & Empirical Risk Minimization (ERM)","id":"ML-01"},{"href":"/notes/jit-ml-02","title":"ML-02 — Bias-Variance Decomposition","id":"ML-02"},{"href":"/notes/jit-ml-03","title":"ML-03 — Overfitting, Underfitting & Generalization","id":"ML-03"},{"href":"/notes/jit-ml-04","title":"ML-04 — Linear Regression and OLS","id":"ML-04"},{"href":"/notes/jit-ml-05","title":"ML-05 — Logistic Regression and Sigmoid","id":"ML-05"},{"href":"/notes/jit-ml-06","title":"ML-06 — Regularization and Weight Decay","id":"ML-06"},{"href":"/notes/jit-ml-07","title":"ML-07 — Cross-Validation and LOOCV","id":"ML-07"},{"href":"/notes/jit-ml-08","title":"ML-08 — Classification Basics & Cross-Entropy","id":"ML-08"},{"href":"/notes/jit-ml-09","title":"ML-09 — Principal Component Analysis (PCA)","id":"ML-09"},{"href":"/notes/jit-dl-01","title":"DL-01 — Affine Transformation & Linear Layer","id":"DL-01"},{"href":"/notes/jit-dl-02","title":"DL-02 — Activation Functions","id":"DL-02"},{"href":"/notes/jit-dl-03","title":"DL-03 — Softmax Mechanism","id":"DL-03"},{"href":"/notes/jit-dl-04","title":"DL-04 — Forward Propagation & Computational Graph","id":"DL-04"},{"href":"/notes/jit-dl-05","title":"DL-05 — Backpropagation & Auto-Differentiation","id":"DL-05"},{"href":"/notes/jit-dl-06","title":"DL-06 — Weight Initialization","id":"DL-06"},{"href":"/notes/jit-dl-07","title":"DL-07 — Residual Connections and RMSNorm","id":"DL-07"},{"href":"/notes/jit-dl-08","title":"DL-08 — Layer Normalization and RMSNorm","id":"DL-08"},{"href":"/notes/jit-dl-09","title":"DL-09 — GLU and SwiGLU","id":"DL-09"},{"href":"/notes/jit-dl-10","title":"DL-10 — Attention Mechanism (MHA & GQA)","id":"DL-10"},{"href":"/notes/jit-dl-11","title":"DL-11 — Representation Learning","id":"DL-11"},{"href":"/notes/jit-dl-12","title":"DL-12 — Generalization and Scaling Laws","id":"DL-12"},{"href":"/notes/jit-dl-13","title":"DL-13 — Mixture of Experts","id":"DL-13"},{"href":"/notes/jit-dl-14","title":"DL-14 — Multi-Task Learning","id":"DL-14"},{"href":"/notes/jit-dl-15","title":"DL-15 — Knowledge Distillation","id":"DL-15"},{"href":"/notes/jit-dl-16","title":"DL-16 — In-Context Learning (ICL) Basics","id":"DL-16"},{"href":"/notes/jit-dl-17","title":"DL-17 — Pretraining, Fine-Tuning & Supervised Fine-Tuning","id":"DL-17"},{"href":"/notes/jit-ml-10","title":"ML-10 — Ensemble Methods: Bagging, Boosting & Gradient Trees","id":"ML-10"},{"href":"/notes/jit-ml-11","title":"ML-11 — Support Vector Machines & Kernel Methods","id":"ML-11"},{"href":"/notes/jit-ml-12","title":"ML-12 — Clustering, Gaussian Mixture Models & Expectation-Maximization","id":"ML-12"}]},{"label":"강화학습·정렬·추론","href":"/learning#field-rl-alignment-reasoning","links":[]},{"label":"LLM 시스템·추론","href":"/learning#field-llm-systems-inference","links":[]},{"label":"논문","href":"/papers","links":[{"href":"/notes/llm-lineage-transformer-reasoning-memory-agents","title":"LLM의 계보: Transformer에서 Reasoning·Memory·Agentic AI까지"},{"href":"/notes/attention-is-all-you-need-notes","title":"[논문리뷰] Attention Is All You Need"},{"href":"/notes/improving-language-understanding-by-generative-pre-training-notes","title":"[논문리뷰] Improving Language Understanding by Generative Pre-Training"},{"href":"/notes/language-models-are-unsupervised-multitask-learners-notes","title":"[논문리뷰] Language Models are Unsupervised Multitask Learners"},{"href":"/notes/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-notes","title":"[논문리뷰] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"}]},{"label":"프로젝트","href":"/projects","links":[{"href":"/notes/career-reading-roadmap","title":"꿈꾸는 책길 — SQF 진로 독서 로드맵"},{"href":"/notes/joseon-annals-rag","title":"조선왕조실록 정책·심리 추론 RAG"},{"href":"/notes/openrouteservice-accessibility-analysis","title":"OpenRouteService 기반 도보 접근도·주택가격 분석"},{"href":"/notes/news-headline-text-mining","title":"2024년 12월 뉴스 제목 텍스트 마이닝"},{"href":"/notes/softbank-intelligence-terminal","title":"SoftBank — 기업·시장·뉴스 대시보드"}]},{"label":"기타 기록","href":"/learning","links":[{"href":"/notes/basic-cnn-visual-guide","title":"Basic CNN — 작은 필터가 이미지를 읽는 법"},{"href":"/notes/machine-learning-1","title":"머신러닝(1)"},{"href":"/notes/deep-learning-1","title":"이진 분류: 단일 뉴런"},{"href":"/notes/deep-learning-2","title":"학습 1회: 순전파·역전파·갱신"},{"href":"/notes/machine-learning-2","title":"머신러닝(2)"},{"href":"/notes/machine-learning-3","title":"머신러닝(3)"},{"href":"/notes/information-theory-lossy-compression-aep","title":"정보이론(6) - Lossy Compression과 전형 집합"},{"href":"/notes/information-theory-bayesian-inference","title":"정보이론(5) - 베이즈 추론과 Beta–Gamma 관계"},{"href":"/notes/information-theory-4-mutual-information-games","title":"정보이론(4) - 상호정보량과 정보 게임"},{"href":"/notes/information-theory-3-gibbs-jensen-elbo","title":"정보이론(3) - Gibbs·Jensen 부등식과 ELBO"},{"href":"/notes/information-theory-2-noisy-channel","title":"정보이론(2) - 잡음 채널과 오류 정정 부호"},{"href":"/notes/information-theory-1-entropy","title":"정보이론(1) - 확률분포와 샤넌 엔트로피"},{"href":"/notes/islr-chapter-7-moving-beyond-linearity","title":"7장 - 선형을 넘어서"},{"href":"/notes/islr-chapter-6-dimension-reduction-high-dimensional","title":"6장 - 선형모형선택과 규제(2)"},{"href":"/notes/islr-chapter-6-model-selection-regularization","title":"6장 - 선형모형선택과 규제(1)"},{"href":"/notes/islr-chapter-5-bootstrap","title":"5장 - 재표집법(1)"},{"href":"/notes/islr-chapter-4-generative-classifiers","title":"4장 - 분류(2)"},{"href":"/notes/islr-chapter-4-logistic-regression","title":"4장 - 분류(1)"},{"href":"/notes/islr-chapter-3-simple-linear-regression","title":"3.1장 - 단순선형회귀"},{"href":"/notes/islr-chapter-3-multiple-linear-regression","title":"3.2장 - 다중선형회귀"},{"href":"/notes/islr-chapter-3-regression-extensions-diagnostics","title":"3.3장 - 회귀모형에서 생각할 다른 문제들"},{"href":"/notes/islr-chapter-3-advertising-questions","title":"3.4장 마케팅 계획"},{"href":"/notes/islr-chapter-3-linear-regression-vs-knn","title":"3.5장 - 선형회귀와 K-근접이웃의 비교"},{"href":"/notes/islr-chapter-2-statistical-learning","title":"ISLR 2장: 통계적 학습과 모형의 정확도 평가"}]},{"label":"실험","href":"/experiments","links":[{"href":"/notes/two-moons-training","title":"Two Moons 데이터 분류 실험"}]}],"writerActive":false}],"$L7","$L8"]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10","$L11","$L12","$L13","$L14"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"RKFXJ7ttWFHD5BQtkI9qG"}
+15:I[98461,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js","/_next/static/chunks/12hy9wrxdev~4.js","/_next/static/chunks/0o9y1-lb7j9_1.js"],""]
+16:I[46784,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js","/_next/static/chunks/12hy9wrxdev~4.js","/_next/static/chunks/0o9y1-lb7j9_1.js"],"default"]
+1d:I[75393,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js"],"ViewportBoundary"]
+1f:I[75393,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js"],"MetadataBoundary"]
+20:"$Sreact.suspense"
+7:["$","main",null,{"className":"archive-not-found","children":[["$","p",null,{"children":"404"}],["$","h1",null,{"children":"페이지를 찾을 수 없습니다"}],["$","div",null,{"children":[["$","$L15",null,{"aria-label":"홈으로 이동","href":"/","children":[["$","$L16",null,{"ref":"$undefined","iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left","aria-hidden":"true"}],"홈"]}],["$","$L15",null,{"aria-label":"전체 기록 검색","href":"/search","children":[["$","$L16",null,{"ref":"$undefined","iconNode":[["path",{"d":"m21 21-4.34-4.34","key":"14j7rj"}],["circle",{"cx":"11","cy":"11","r":"8","key":"4ej97u"}]],"className":"lucide-search","aria-hidden":"true"}],"검색"]}]]}]]}]
+8:["$","footer",null,{"className":"archive-footer","children":[["$","div",null,{"className":"archive-footer-inner","children":[["$","div",null,{"className":"archive-footer-brand","children":["$","$L15",null,{"href":"/","children":"김우식"}]}],["$","nav",null,{"className":"archive-footer-nav","aria-label":"하단 메뉴","children":[["$","$L15","/projects",{"href":"/projects","children":"프로젝트"}],["$","$L15","/learning",{"href":"/learning","children":"Learnings"}],["$","$L15","/papers",{"href":"/papers","children":"논문"}],["$","$L15","/search",{"href":"/search","children":"검색"}],["$","$L15","/write",{"href":"/write","children":"작성 도구"}]]}],["$","nav",null,{"className":"archive-footer-external","aria-label":"외부 링크","children":[["$","a","https://github.com/cmkkws",{"href":"https://github.com/cmkkws","rel":"noreferrer","target":"_blank","children":["GitHub",["$","$L16",null,{"ref":"$undefined","iconNode":[["path",{"d":"M15 3h6v6","key":"1q9fwt"}],["path",{"d":"M10 14 21 3","key":"gplh6r"}],["path",{"d":"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6","key":"a6xqqp"}]],"className":"lucide-external-link","aria-hidden":"true"}]]}],["$","a","https://velog.io/@cmkkws/posts",{"href":"https://velog.io/@cmkkws/posts","rel":"noreferrer","target":"_blank","children":["Velog",["$","$L16",null,{"ref":"$undefined","iconNode":"$8:props:children:0:props:children:2:props:children:0:props:children:1:props:iconNode","className":"lucide-external-link","aria-hidden":"true"}]]}],["$","a","https://github.com/cmkkws/layerlab-study",{"href":"https://github.com/cmkkws/layerlab-study","rel":"noreferrer","target":"_blank","children":["Repository",["$","$L16",null,{"ref":"$undefined","iconNode":"$8:props:children:0:props:children:2:props:children:0:props:children:1:props:iconNode","className":"lucide-external-link","aria-hidden":"true"}]]}]]}]]}],["$","div",null,{"className":"archive-footer-bottom","children":["$","span",null,{"children":["© ",2026," 김우식"]}]}]]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":[["$","div",null,{"className":"archive-site archive-practice","children":[["$","a",null,{"className":"archive-skip-link","href":"#practice-main","children":"학습 본문으로 건너뛰기"}],["$","$L6",null,{"groups":[{"label":"선형대수","href":"/learning#field-linear-algebra","links":[{"href":"/notes/jit-la-01","title":"LA-01 — Scalar, Vector, Matrix, Tensor","id":"LA-01"},{"href":"/notes/jit-la-02","title":"LA-02 — Vector and Matrix Reduction / Pooling","id":"LA-02"},{"href":"/notes/jit-la-03","title":"LA-03 — Matrix Multiplication: 4 Perspectives","id":"LA-03"},{"href":"/notes/jit-la-04","title":"LA-04 — Kronecker Product & Hadamard Product","id":"LA-04"},{"href":"/notes/jit-la-05","title":"LA-05 — Block Matrix Operations & Tiling","id":"LA-05"},{"href":"/notes/jit-la-06","title":"LA-06 — Linear Combination, Span, Basis, & Dimension","id":"LA-06"},{"href":"/notes/jit-la-07","title":"LA-07 — Linear Transformation & Coordinate Change","id":"LA-07"},{"href":"/notes/jit-la-08","title":"LA-08 — Rotation Matrix & Complex-Plane Rotation","id":"LA-08"},{"href":"/notes/jit-la-09","title":"LA-09 — Kernel & Range (Null Space & Column Space)","id":"LA-09"},{"href":"/notes/jit-la-10","title":"LA-10 — Rank & Matrix Factorization","id":"LA-10"},{"href":"/notes/jit-la-11","title":"LA-11 — Dot Product & Inner Product Space","id":"LA-11"},{"href":"/notes/jit-la-12","title":"LA-12 — Vector and Matrix Norms (including RMS)","id":"LA-12"},{"href":"/notes/jit-la-13","title":"LA-13 — Orthogonality & Orthogonal Projection","id":"LA-13"},{"href":"/notes/jit-la-14","title":"LA-14 — Least Squares Approximation","id":"LA-14"},{"href":"/notes/jit-la-15","title":"LA-15 — Eigenvalues and Eigenvectors","id":"LA-15"},{"href":"/notes/jit-la-16","title":"LA-16 — Eigendecomposition & Diagonalization","id":"LA-16"},{"href":"/notes/jit-la-17","title":"LA-17 — Symmetric & Positive Definite Matrix","id":"LA-17"},{"href":"/notes/jit-la-18","title":"LA-18 — Singular Value Decomposition (SVD)","id":"LA-18"},{"href":"/notes/jit-la-19","title":"LA-19 — Low-Rank Approximation & Eckart–Young–Mirsky Theorem","id":"LA-19"},{"href":"/notes/jit-la-20","title":"LA-20 — Moore–Penrose Pseudoinverse","id":"LA-20"},{"href":"/notes/jit-la-21","title":"LA-21 — Covariance Matrix","id":"LA-21"}]},{"label":"확률·통계","href":"/learning#field-probability-statistics","links":[{"href":"/notes/jit-ps-01","title":"PS-01 — Probability Space & Axioms","id":"PS-01"},{"href":"/notes/jit-ps-02","title":"PS-02 — Conditional Probability, Chain Rule, & Bayes' Theorem","id":"PS-02"},{"href":"/notes/jit-ps-03","title":"PS-03 — Law of Total Probability & Bayes Theorem","id":"PS-03"},{"href":"/notes/jit-ps-04","title":"PS-04 — Random Variables & Distribution Functions (PMF, PDF, CDF)","id":"PS-04"},{"href":"/notes/jit-ps-05","title":"PS-05 — Joint, Marginal, & Conditional Distributions & Marginalization","id":"PS-05"},{"href":"/notes/jit-ps-06","title":"PS-06 — Expectation (Expected Value)","id":"PS-06"},{"href":"/notes/jit-ps-07","title":"PS-07 — Variance, Covariance, & Standard Deviation","id":"PS-07"},{"href":"/notes/jit-ps-08","title":"PS-08 — Standard Score (Z-score) & Normalization","id":"PS-08"},{"href":"/notes/jit-ps-09","title":"PS-09 — Categorical & Multinomial Distributions","id":"PS-09"},{"href":"/notes/jit-ps-10","title":"PS-10 — Gaussian Distribution & Normal CDF","id":"PS-10"},{"href":"/notes/jit-ps-11","title":"PS-11 — Likelihood, Log-Likelihood, & Negative Log-Likelihood","id":"PS-11"},{"href":"/notes/jit-ps-12","title":"PS-12 — Maximum Likelihood Estimation (MLE) & MAP","id":"PS-12"},{"href":"/notes/jit-ps-13","title":"PS-13 — Sampling Strategies (Decoding Sampling)","id":"PS-13"},{"href":"/notes/jit-ps-14","title":"PS-14 — Law of Large Numbers (LLN) & Central Limit Theorem (CLT)","id":"PS-14"},{"href":"/notes/jit-ps-15","title":"PS-15 — Pairwise Probability & Bradley-Terry Preference Model","id":"PS-15"},{"href":"/notes/jit-ps-16","title":"PS-16 — Power-Law Relationship & Empirical Data Fitting","id":"PS-16"},{"href":"/notes/jit-ps-17","title":"PS-17 — Coefficient of Variation (CV) & MoE Load Balancing","id":"PS-17"}]},{"label":"미적분·최적화","href":"/learning#field-calculus-optimization","links":[{"href":"/notes/jit-co-01","title":"CO-01 — Objective Function & Stationary Point","id":"CO-01"},{"href":"/notes/jit-co-02","title":"CO-02 — Derivative, Partial Derivative & Gradient","id":"CO-02"},{"href":"/notes/jit-co-03","title":"CO-03 — Directional Derivative & Steepest Descent","id":"CO-03"},{"href":"/notes/jit-co-04","title":"CO-04 — Chain Rule","id":"CO-04"},{"href":"/notes/jit-co-05","title":"CO-05 — Jacobian Matrix & Determinant","id":"CO-05"},{"href":"/notes/jit-co-06","title":"CO-06 — Hessian Matrix & Second-Order Taylor Expansion","id":"CO-06"},{"href":"/notes/jit-co-07","title":"CO-07 — Matrix Calculus (Identities & Layouts)","id":"CO-07"},{"href":"/notes/jit-co-08","title":"CO-08 — Numerical Stability & Log-Sum-Exp","id":"CO-08"},{"href":"/notes/jit-co-09","title":"CO-09 — Gradient Descent & Stochastic Gradient Descent (SGD)","id":"CO-09"},{"href":"/notes/jit-co-10","title":"CO-10 — Learning Rate & Momentum","id":"CO-10"},{"href":"/notes/jit-co-11","title":"CO-11 — Convex Sets & Convex Functions","id":"CO-11"},{"href":"/notes/jit-co-12","title":"CO-12 — Jensen’s Inequality","id":"CO-12"},{"href":"/notes/jit-co-13","title":"CO-13 — Regularization & Weight Decay","id":"CO-13"},{"href":"/notes/jit-co-14","title":"CO-14 — Curve Fitting & Scaling Laws","id":"CO-14"},{"href":"/notes/jit-co-15","title":"CO-15 — Constrained Optimization","id":"CO-15"},{"href":"/notes/jit-co-16","title":"CO-16 — Primal–Dual Problems","id":"CO-16"},{"href":"/notes/jit-co-17","title":"CO-17 — KKT Conditions","id":"CO-17"}]},{"label":"정보이론","href":"/learning#field-information-theory","links":[{"href":"/notes/jit-it-01","title":"IT-01 — Self-Information","id":"IT-01"},{"href":"/notes/jit-it-02","title":"IT-02 — Shannon Entropy","id":"IT-02"},{"href":"/notes/jit-it-03","title":"IT-03 — Binary Entropy","id":"IT-03"},{"href":"/notes/jit-it-04","title":"IT-04 — Joint Entropy","id":"IT-04"},{"href":"/notes/jit-it-05","title":"IT-05 — Conditional Entropy","id":"IT-05"},{"href":"/notes/jit-it-06","title":"IT-06 — Entropy Chain Rule","id":"IT-06"},{"href":"/notes/jit-it-07","title":"IT-07 — KL Divergence","id":"IT-07"},{"href":"/notes/jit-it-08","title":"IT-08 — Gibbs’ Inequality","id":"IT-08"},{"href":"/notes/jit-it-09","title":"IT-09 — Cross-Entropy and KL Divergence","id":"IT-09"},{"href":"/notes/jit-it-10","title":"IT-10 — Perplexity","id":"IT-10"},{"href":"/notes/jit-it-11","title":"IT-11 — Mutual Information","id":"IT-11"},{"href":"/notes/jit-it-12","title":"IT-12 — Conditional Mutual Information","id":"IT-12"},{"href":"/notes/jit-it-13","title":"IT-13 — Entropy Venn Diagram","id":"IT-13"},{"href":"/notes/jit-it-14","title":"IT-14 — Data Processing Inequality","id":"IT-14"},{"href":"/notes/jit-it-15","title":"IT-15 — Discrete and Differential Entropy","id":"IT-15"},{"href":"/notes/jit-it-16","title":"IT-16 — AEP and Typical Set","id":"IT-16"},{"href":"/notes/jit-it-17","title":"IT-17 — Source Coding and Kraft Inequality","id":"IT-17"},{"href":"/notes/jit-it-18","title":"IT-18 — Channel Capacity and Coding Theorem","id":"IT-18"},{"href":"/notes/jit-it-19","title":"IT-19 — Entropy Rate","id":"IT-19"},{"href":"/notes/jit-it-20","title":"IT-20 — Rate-Distortion Theory","id":"IT-20"},{"href":"/notes/jit-it-21","title":"IT-21 — Maximum Entropy Principle","id":"IT-21"}]},{"label":"ML·DL","href":"/learning#field-ml-deep-learning","links":[{"href":"/notes/jit-ml-01","title":"ML-01 — Loss, Risk & Empirical Risk Minimization (ERM)","id":"ML-01"},{"href":"/notes/jit-ml-02","title":"ML-02 — Bias-Variance Decomposition","id":"ML-02"},{"href":"/notes/jit-ml-03","title":"ML-03 — Overfitting, Underfitting & Generalization","id":"ML-03"},{"href":"/notes/jit-ml-04","title":"ML-04 — Linear Regression and OLS","id":"ML-04"},{"href":"/notes/jit-ml-05","title":"ML-05 — Logistic Regression and Sigmoid","id":"ML-05"},{"href":"/notes/jit-ml-06","title":"ML-06 — Regularization and Weight Decay","id":"ML-06"},{"href":"/notes/jit-ml-07","title":"ML-07 — Cross-Validation and LOOCV","id":"ML-07"},{"href":"/notes/jit-ml-08","title":"ML-08 — Classification Basics & Cross-Entropy","id":"ML-08"},{"href":"/notes/jit-ml-09","title":"ML-09 — Principal Component Analysis (PCA)","id":"ML-09"},{"href":"/notes/jit-dl-01","title":"DL-01 — Affine Transformation & Linear Layer","id":"DL-01"},{"href":"/notes/jit-dl-02","title":"DL-02 — Activation Functions","id":"DL-02"},{"href":"/notes/jit-dl-03","title":"DL-03 — Softmax Mechanism","id":"DL-03"},{"href":"/notes/jit-dl-04","title":"DL-04 — Forward Propagation & Computational Graph","id":"DL-04"},{"href":"/notes/jit-dl-05","title":"DL-05 — Backpropagation & Auto-Differentiation","id":"DL-05"},{"href":"/notes/jit-dl-06","title":"DL-06 — Weight Initialization","id":"DL-06"},{"href":"/notes/jit-dl-07","title":"DL-07 — Residual Connections and RMSNorm","id":"DL-07"},{"href":"/notes/jit-dl-08","title":"DL-08 — Layer Normalization and RMSNorm","id":"DL-08"},{"href":"/notes/jit-dl-09","title":"DL-09 — GLU and SwiGLU","id":"DL-09"},{"href":"/notes/jit-dl-10","title":"DL-10 — Attention Mechanism (MHA & GQA)","id":"DL-10"},{"href":"/notes/jit-dl-11","title":"DL-11 — Representation Learning","id":"DL-11"},{"href":"/notes/jit-dl-12","title":"DL-12 — Generalization and Scaling Laws","id":"DL-12"},{"href":"/notes/jit-dl-13","title":"DL-13 — Mixture of Experts","id":"DL-13"},{"href":"/notes/jit-dl-14","title":"DL-14 — Multi-Task Learning","id":"DL-14"},{"href":"/notes/jit-dl-15","title":"DL-15 — Knowledge Distillation","id":"DL-15"},{"href":"/notes/jit-dl-16","title":"DL-16 — In-Context Learning (ICL) Basics","id":"DL-16"},{"href":"/notes/jit-dl-17","title":"DL-17 — Pretraining, Fine-Tuning & Supervised Fine-Tuning","id":"DL-17"},{"href":"/notes/jit-ml-10","title":"ML-10 — Ensemble Methods: Bagging, Boosting & Gradient Trees","id":"ML-10"},{"href":"/notes/jit-ml-11","title":"ML-11 — Support Vector Machines & Kernel Methods","id":"ML-11"},{"href":"/notes/jit-ml-12","title":"ML-12 — Clustering, Gaussian Mixture Models & Expectation-Maximization","id":"ML-12"}]},{"label":"강화학습·정렬·추론","href":"/learning#field-rl-alignment-reasoning","links":[]},{"label":"LLM 시스템·추론","href":"/learning#field-llm-systems-inference","links":[]},{"label":"논문","href":"/papers","links":[{"href":"/notes/llm-lineage-transformer-reasoning-memory-agents","title":"LLM의 계보: Transformer에서 Reasoning·Memory·Agentic AI까지"},{"href":"/notes/attention-is-all-you-need-notes","title":"[논문리뷰] Attention Is All You Need"},{"href":"/notes/improving-language-understanding-by-generative-pre-training-notes","title":"[논문리뷰] Improving Language Understanding by Generative Pre-Training"},{"href":"/notes/language-models-are-unsupervised-multitask-learners-notes","title":"[논문리뷰] Language Models are Unsupervised Multitask Learners"},{"href":"/notes/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-notes","title":"[논문리뷰] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"}]},{"label":"프로젝트","href":"/projects","links":[{"href":"/notes/career-reading-roadmap","title":"꿈꾸는 책길 — SQF 진로 독서 로드맵"},{"href":"/notes/joseon-annals-rag","title":"조선왕조실록 정책·심리 추론 RAG"},{"href":"/notes/openrouteservice-accessibility-analysis","title":"OpenRouteService 기반 도보 접근도·주택가격 분석"},{"href":"/notes/news-headline-text-mining","title":"2024년 12월 뉴스 제목 텍스트 마이닝"},{"href":"/notes/softbank-intelligence-terminal","title":"SoftBank — 기업·시장·뉴스 대시보드"}]},{"label":"기타 기록","href":"/learning","links":[{"href":"/notes/basic-cnn-visual-guide","title":"Basic CNN — 작은 필터가 이미지를 읽는 법"},{"href":"/notes/machine-learning-1","title":"머신러닝(1)"},{"href":"/notes/deep-learning-1","title":"이진 분류: 단일 뉴런"},{"href":"/notes/deep-learning-2","title":"학습 1회: 순전파·역전파·갱신"},{"href":"/notes/machine-learning-2","title":"머신러닝(2)"},{"href":"/notes/machine-learning-3","title":"머신러닝(3)"},{"href":"/notes/information-theory-lossy-compression-aep","title":"정보이론(6) - Lossy Compression과 전형 집합"},{"href":"/notes/information-theory-bayesian-inference","title":"정보이론(5) - 베이즈 추론과 Beta–Gamma 관계"},{"href":"/notes/information-theory-4-mutual-information-games","title":"정보이론(4) - 상호정보량과 정보 게임"},{"href":"/notes/information-theory-3-gibbs-jensen-elbo","title":"정보이론(3) - Gibbs·Jensen 부등식과 ELBO"},{"href":"/notes/information-theory-2-noisy-channel","title":"정보이론(2) - 잡음 채널과 오류 정정 부호"},{"href":"/notes/information-theory-1-entropy","title":"정보이론(1) - 확률분포와 샤넌 엔트로피"},{"href":"/notes/islr-chapter-7-moving-beyond-linearity","title":"7장 - 선형을 넘어서"},{"href":"/notes/islr-chapter-6-dimension-reduction-high-dimensional","title":"6장 - 선형모형선택과 규제(2)"},{"href":"/notes/islr-chapter-6-model-selection-regularization","title":"6장 - 선형모형선택과 규제(1)"},{"href":"/notes/islr-chapter-5-bootstrap","title":"5장 - 재표집법(1)"},{"href":"/notes/islr-chapter-4-generative-classifiers","title":"4장 - 분류(2)"},{"href":"/notes/islr-chapter-4-logistic-regression","title":"4장 - 분류(1)"},{"href":"/notes/islr-chapter-3-simple-linear-regression","title":"3.1장 - 단순선형회귀"},{"href":"/notes/islr-chapter-3-multiple-linear-regression","title":"3.2장 - 다중선형회귀"},{"href":"/notes/islr-chapter-3-regression-extensions-diagnostics","title":"3.3장 - 회귀모형에서 생각할 다른 문제들"},{"href":"/notes/islr-chapter-3-advertising-questions","title":"3.4장 마케팅 계획"},{"href":"/notes/islr-chapter-3-linear-regression-vs-knn","title":"3.5장 - 선형회귀와 K-근접이웃의 비교"},{"href":"/notes/islr-chapter-2-statistical-learning","title":"ISLR 2장: 통계적 학습과 모형의 정확도 평가"}]},{"label":"실험","href":"/experiments","links":[{"href":"/notes/two-moons-training","title":"Two Moons 데이터 분류 실험"}]}],"writerActive":false}],"$L17","$L18"]}],["$L19","$L1a"],"$L1b"]}]
+1c:[]
+d:"$W1c"
+e:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0qx4zgrzyff2q.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/03r9b02._uxa7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/041ibd9g4crll.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/12mxmo93zvi9n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","4",{"rel":"stylesheet","href":"/_next/static/chunks/0knusf6~dmwu9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+22:I[89736,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js","/_next/static/chunks/12hy9wrxdev~4.js","/_next/static/chunks/0o9y1-lb7j9_1.js"],"TransformerModelLab"]
+25:I[75393,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js"],"OutletBoundary"]
+23:T2cf3,"""Attention Is All You Need: original encoder-decoder architecture.
+
+Save this file as transformer_2017.py. Run: python transformer_2017.py --smoke
+Default dimensions are the paper's base configuration. Smoke inputs use a tiny
+configuration and synthetic token sequences, not the WMT translation benchmark.
+"""
+import argparse
+import math
+from dataclasses import dataclass
+
+import torch
+from torch import nn
+from torch.nn import functional as F
+
+
+# STEP 01: configuration and teacher forcing
+@dataclass
+class Config:
+    vocab_size: int
+    d_model: int = 512
+    heads: int = 8
+    layers: int = 6
+    d_ff: int = 2048
+    dropout: float = 0.1
+    max_length: int = 512
+    pad_id: int = 0
+    bos_id: int = 1
+    eos_id: int = 2
+
+    def __post_init__(self):
+        if self.vocab_size < 4 or self.d_model < 2 or self.d_model % 2:
+            raise ValueError("vocab_size >= 4 and positive even d_model required")
+        if self.heads < 1 or self.d_model % self.heads:
+            raise ValueError("d_model must be divisible by heads")
+        if self.layers < 1 or self.d_ff < 1 or self.max_length < 1:
+            raise ValueError("layers, d_ff and max_length must be positive")
+        if not 0 <= self.dropout < 1:
+            raise ValueError("dropout must be in [0, 1)")
+        if len({self.pad_id, self.bos_id, self.eos_id}) != 3:
+            raise ValueError("PAD, BOS, EOS must be distinct")
+        if any(not 0 <= i < self.vocab_size for i in (self.pad_id, self.bos_id, self.eos_id)):
+            raise ValueError("special IDs must be inside vocabulary")
+
+
+def teacher_forcing(target):
+    if target.ndim != 2 or target.size(1) < 2:
+        raise ValueError("target must be [batch, length >= 2]")
+    return target[:, :-1], target[:, 1:]  # shift exactly once
+
+
+# STEP 02: scaled embeddings and sinusoidal positions
+class TokenPosition(nn.Module):
+    def __init__(self, cfg, embedding):
+        super().__init__()
+        self.embedding = embedding
+        self.scale = math.sqrt(cfg.d_model)
+        position = torch.arange(cfg.max_length, dtype=torch.float32)[:, None]
+        frequency = torch.exp(
+            torch.arange(0, cfg.d_model, 2) * (-math.log(10000.0) / cfg.d_model)
+        )
+        pe = torch.zeros(cfg.max_length, cfg.d_model)
+        pe[:, 0::2] = torch.sin(position * frequency)
+        pe[:, 1::2] = torch.cos(position * frequency)
+        self.register_buffer("pe", pe[None])
+        self.dropout = nn.Dropout(cfg.dropout)
+
+    def forward(self, ids):
+        if ids.size(1) > self.pe.size(1):
+            raise ValueError("sequence exceeds positional encoding length")
+        x = self.embedding(ids) * self.scale
+        return self.dropout(x + self.pe[:, :ids.size(1)].to(x.dtype))
+
+
+# STEP 03: padding masks, causal masks, scaled dot-product attention
+def key_mask(ids, pad_id):
+    return (ids != pad_id)[:, None, None, :]  # True = allowed
+
+
+def target_mask(ids, pad_id):
+    length = ids.size(1)
+    causal = torch.ones(length, length, dtype=torch.bool, device=ids.device).tril()
+    return key_mask(ids, pad_id) & causal[None, None]
+
+
+def scaled_attention(q, k, v, allowed):
+    scores = q @ k.transpose(-2, -1) / math.sqrt(q.size(-1))
+    has_key = allowed.any(dim=-1, keepdim=True)
+    scores = scores.masked_fill(~allowed, float("-inf"))
+    # An empty allowed row is an explicit zero-output policy, not a NaN softmax.
+    scores = torch.where(has_key, scores, torch.zeros_like(scores))
+    probabilities = torch.softmax(scores, dim=-1).masked_fill(~allowed, 0.0)
+    return probabilities @ v
+
+
+# STEP 04: multi-head self-attention and cross-attention
+class MultiHeadAttention(nn.Module):
+    def __init__(self, cfg):
+        super().__init__()
+        self.heads = cfg.heads
+        self.head_dim = cfg.d_model // cfg.heads
+        self.q = nn.Linear(cfg.d_model, cfg.d_model, bias=False)
+        self.k = nn.Linear(cfg.d_model, cfg.d_model, bias=False)
+        self.v = nn.Linear(cfg.d_model, cfg.d_model, bias=False)
+        self.out = nn.Linear(cfg.d_model, cfg.d_model, bias=False)
+
+    def split(self, x):
+        batch, length, _ = x.shape
+        return x.reshape(batch, length, self.heads, self.head_dim).transpose(1, 2)
+
+    def forward(self, query, key, value, allowed):
+        q, k, v = self.split(self.q(query)), self.split(self.k(key)), self.split(self.v(value))
+        context = scaled_attention(q, k, v, allowed)
+        merged = context.transpose(1, 2).contiguous().reshape(query.size(0), query.size(1), -1)
+        return self.out(merged)
+
+
+# STEP 05: ReLU FFN and original post-normalization encoder
+class FeedForward(nn.Module):
+    def __init__(self, cfg):
+        super().__init__()
+        self.first = nn.Linear(cfg.d_model, cfg.d_ff)
+        self.second = nn.Linear(cfg.d_ff, cfg.d_model)
+
+    def forward(self, x):
+        return self.second(F.relu(self.first(x)))
+
+
+class EncoderLayer(nn.Module):
+    def __init__(self, cfg):
+        super().__init__()
+        self.attention = MultiHeadAttention(cfg)
+        self.ffn = FeedForward(cfg)
+        self.norm1 = nn.LayerNorm(cfg.d_model, eps=1e-5)
+        self.norm2 = nn.LayerNorm(cfg.d_model, eps=1e-5)
+        self.dropout = nn.Dropout(cfg.dropout)
+
+    def forward(self, x, allowed):
+        x = self.norm1(x + self.dropout(self.attention(x, x, x, allowed)))
+        return self.norm2(x + self.dropout(self.ffn(x)))
+
+
+# STEP 06: original decoder with encoder-decoder attention
+class DecoderLayer(nn.Module):
+    def __init__(self, cfg):
+        super().__init__()
+        self.self_attention = MultiHeadAttention(cfg)
+        self.cross_attention = MultiHeadAttention(cfg)
+        self.ffn = FeedForward(cfg)
+        self.norm1 = nn.LayerNorm(cfg.d_model, eps=1e-5)
+        self.norm2 = nn.LayerNorm(cfg.d_model, eps=1e-5)
+        self.norm3 = nn.LayerNorm(cfg.d_model, eps=1e-5)
+        self.dropout = nn.Dropout(cfg.dropout)
+
+    def forward(self, x, memory, causal_allowed, source_allowed):
+        x = self.norm1(x + self.dropout(self.self_attention(x, x, x, causal_allowed)))
+        x = self.norm2(x + self.dropout(self.cross_attention(x, memory, memory, source_allowed)))
+        return self.norm3(x + self.dropout(self.ffn(x)))
+
+
+# STEP 07: complete encoder-decoder and shared output weights
+class Transformer2017(nn.Module):
+    def __init__(self, cfg):
+        super().__init__()
+        self.cfg = cfg
+        # One joint source/target vocabulary is assumed for three-way weight tying.
+        embedding = nn.Embedding(cfg.vocab_size, cfg.d_model, padding_idx=cfg.pad_id)
+        self.source_position = TokenPosition(cfg, embedding)
+        self.target_position = TokenPosition(cfg, embedding)
+        self.encoder = nn.ModuleList([EncoderLayer(cfg) for _ in range(cfg.layers)])
+        self.decoder = nn.ModuleList([DecoderLayer(cfg) for _ in range(cfg.layers)])
+        self.generator = nn.Linear(cfg.d_model, cfg.vocab_size, bias=False)
+        self.generator.weight = embedding.weight
+        # Xavier and LayerNorm epsilon are documented implementation choices.
+        for parameter in self.parameters():
+            if parameter.dim() > 1:
+                nn.init.xavier_uniform_(parameter)
+        with torch.no_grad():
+            embedding.weight[cfg.pad_id].zero_()
+
+    def encode(self, source):
+        allowed = key_mask(source, self.cfg.pad_id)
+        x = self.source_position(source)
+        for layer in self.encoder:
+            x = layer(x, allowed)
+        return x
+
+    def decode(self, target_input, memory, source):
+        causal_allowed = target_mask(target_input, self.cfg.pad_id)
+        source_allowed = key_mask(source, self.cfg.pad_id)
+        x = self.target_position(target_input)
+        for layer in self.decoder:
+            x = layer(x, memory, causal_allowed, source_allowed)
+        return self.generator(x)  # logits; do not softmax before training loss
+
+    def forward(self, source, target_input):
+        return self.decode(target_input, self.encode(source), source)
+
+
+# STEP 08: label smoothing and the paper's learning-rate schedule
+def label_smoothed_loss(logits, labels, pad_id=0, smoothing=0.1):
+    if not 0 <= smoothing < 1:
+        raise ValueError("smoothing must be in [0, 1)")
+    valid = labels != pad_id
+    if not valid.any():
+        return logits.sum() * 0.0
+    log_probs = F.log_softmax(logits[valid], dim=-1)
+    targets = labels[valid]
+    nll = -log_probs.gather(1, targets[:, None]).squeeze(1)
+    # Confidence=1-epsilon; epsilon distributed over all non-target vocabulary IDs.
+    other = (-log_probs.sum(dim=-1) - nll) / (logits.size(-1) - 1)
+    return ((1 - smoothing) * nll + smoothing * other).mean()
+
+
+def noam_lr(step, d_model, warmup=4000):
+    if step < 1 or d_model < 1 or warmup < 1:
+        raise ValueError("step, d_model and warmup must be positive")
+    return d_model ** -0.5 * min(step ** -0.5, step * warmup ** -1.5)
+
+
+# STEP 09: one training update on paired sequences
+def train_step(model, optimizer, source, target, step, warmup=4000):
+    model.train()
+    target_input, labels = teacher_forcing(target)
+    optimizer.zero_grad(set_to_none=True)
+    logits = model(source, target_input)
+    loss = label_smoothed_loss(logits, labels, model.cfg.pad_id)
+    if not torch.isfinite(loss):
+        raise RuntimeError("non-finite loss")
+    loss.backward()
+    for group in optimizer.param_groups:
+        group["lr"] = noam_lr(step, model.cfg.d_model, warmup)
+    optimizer.step()
+    return float(loss.detach())
+
+
+def toy_batch():
+    source = torch.tensor([[3, 4, 5, 0], [6, 7, 0, 0]])
+    target = torch.tensor([[1, 5, 4, 3, 2], [1, 7, 6, 2, 0]])
+    return source, target
+
+
+# STEP 10: greedy autoregressive decoding and smoke command
+@torch.no_grad()
+def greedy_decode(model, source, max_new_tokens=8):
+    if max_new_tokens < 1 or max_new_tokens > model.cfg.max_length:
+        raise ValueError("max_new_tokens outside positional capacity")
+    was_training = model.training
+    model.eval()
+    try:
+        memory = model.encode(source)
+        ids = torch.full((source.size(0), 1), model.cfg.bos_id, dtype=torch.long, device=source.device)
+        finished = torch.zeros(source.size(0), dtype=torch.bool, device=source.device)
+        for _ in range(max_new_tokens):
+            token = model.decode(ids, memory, source)[:, -1].argmax(dim=-1)
+            token = torch.where(finished, model.cfg.pad_id, token)
+            ids = torch.cat([ids, token[:, None]], dim=1)
+            finished |= token == model.cfg.eos_id
+            if finished.all():
+                break
+        return ids
+    finally:
+        model.train(was_training)
+
+
+def smoke():
+    torch.set_num_threads(1)
+    torch.manual_seed(42)
+    cfg = Config(vocab_size=16, d_model=16, heads=2, layers=1, d_ff=32, dropout=0.0)
+    model = Transformer2017(cfg)
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.0, betas=(0.9, 0.98), eps=1e-9)
+    source, target = toy_batch()
+    for step in range(1, 5):
+        loss = train_step(model, optimizer, source, target, step, warmup=8)
+        print(f"step={step} loss={loss:.6f} lr={optimizer.param_groups[0]['lr']:.6f}")
+    print("logits shape:", tuple(model(source, target[:, :-1]).shape))
+    print("greedy IDs:", greedy_decode(model, source).tolist())
+    print("SMOKE PASS - synthetic inputs, not WMT/BLEU reproduction")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--smoke", action="store_true")
+    args = parser.parse_args()
+    if args.smoke:
+        smoke()
+    else:
+        parser.print_help()
+24:T1d24,import math
+
+import pytest
+import torch
+from torch import nn
+from torch.nn import functional as F
+
+from transformer_2017 import (
+    Config, TokenPosition, MultiHeadAttention, EncoderLayer, DecoderLayer,
+    Transformer2017, key_mask, target_mask, scaled_attention, teacher_forcing,
+    label_smoothed_loss, noam_lr, train_step, toy_batch, greedy_decode,
+)
+
+torch.set_num_threads(1)
+
+
+def tiny():
+    return Config(vocab_size=16, d_model=16, heads=2, layers=1, d_ff=32, dropout=0.0)
+
+
+def test_base_configuration_and_invalid_heads():
+    cfg = Config(vocab_size=32)
+    assert (cfg.d_model, cfg.heads, cfg.layers, cfg.d_ff, cfg.dropout) == (512, 8, 6, 2048, 0.1)
+    with pytest.raises(ValueError):
+        Config(vocab_size=16, d_model=16, heads=3)
+
+
+def test_shift_and_padding_masks():
+    source, target = toy_batch()
+    inputs, labels = teacher_forcing(target)
+    assert inputs[0].tolist() == [1, 5, 4, 3]
+    assert labels[0].tolist() == [5, 4, 3, 2]
+    assert not key_mask(source, 0)[0, 0, 0, 3]
+    allowed = target_mask(inputs, 0)
+    assert allowed[0, 0, 0].tolist() == [True, False, False, False]
+
+
+def test_sinusoidal_positions_and_embedding_scale():
+    cfg = tiny()
+    embedding = nn.Embedding(16, 16)
+    module = TokenPosition(cfg, embedding)
+    assert module.pe[0, 0, 0::2].tolist() == [0.0] * 8
+    assert module.pe[0, 0, 1::2].tolist() == [1.0] * 8
+    ids = torch.tensor([[3, 4]])
+    torch.testing.assert_close(module(ids), embedding(ids) * math.sqrt(16) + module.pe[:, :2])
+    assert "pe" in dict(module.named_buffers())
+
+
+def test_attention_output_and_gradients_match_sdpa():
+    torch.manual_seed(42)
+    q, k, v = [torch.randn(1, 2, 3, 4, dtype=torch.float64, requires_grad=True) for _ in range(3)]
+    allowed = torch.ones(3, 3, dtype=torch.bool).tril()[None, None]
+    actual = scaled_attention(q, k, v, allowed)
+    reference = F.scaled_dot_product_attention(q, k, v, attn_mask=allowed, dropout_p=0.0)
+    torch.testing.assert_close(actual, reference, rtol=1e-10, atol=1e-10)
+    a = torch.autograd.grad(actual.square().sum(), (q, k, v), retain_graph=True)
+    b = torch.autograd.grad(reference.square().sum(), (q, k, v))
+    for x, y in zip(a, b):
+        torch.testing.assert_close(x, y, rtol=1e-10, atol=1e-10)
+
+
+def test_fully_masked_row_is_finite_and_zero():
+    q = torch.randn(1, 1, 2, 4, requires_grad=True)
+    allowed = torch.zeros(1, 1, 2, 2, dtype=torch.bool)
+    output = scaled_attention(q, q, q, allowed)
+    assert torch.equal(output, torch.zeros_like(output))
+    output.sum().backward()
+    assert torch.isfinite(q.grad).all()
+
+
+def test_multihead_cross_attention_matches_torch_reference():
+    torch.manual_seed(42)
+    cfg = tiny()
+    ours = MultiHeadAttention(cfg).double()
+    reference = nn.MultiheadAttention(16, 2, dropout=0.0, bias=False, batch_first=True).double()
+    with torch.no_grad():
+        reference.in_proj_weight.copy_(torch.cat([ours.q.weight, ours.k.weight, ours.v.weight]))
+        reference.out_proj.weight.copy_(ours.out.weight)
+    query = torch.randn(2, 3, 16, dtype=torch.float64, requires_grad=True)
+    memory = torch.randn(2, 5, 16, dtype=torch.float64, requires_grad=True)
+    allowed = torch.ones(2, 1, 1, 5, dtype=torch.bool)
+    actual = ours(query, memory, memory, allowed)
+    expected = reference(query, memory, memory, need_weights=False)[0]
+    torch.testing.assert_close(actual, expected, rtol=1e-10, atol=1e-10)
+    a = torch.autograd.grad(actual.square().sum(), (query, memory), retain_graph=True)
+    b = torch.autograd.grad(expected.square().sum(), (query, memory))
+    for x, y in zip(a, b):
+        torch.testing.assert_close(x, y, rtol=1e-10, atol=1e-10)
+
+
+def test_encoder_is_post_ln_relu():
+    cfg = tiny()
+    layer = EncoderLayer(cfg).eval()
+    x = torch.randn(1, 3, 16)
+    allowed = torch.ones(1, 1, 1, 3, dtype=torch.bool)
+    first = layer.norm1(x + layer.attention(x, x, x, allowed))
+    expected = layer.norm2(first + layer.ffn(first))
+    torch.testing.assert_close(layer(x, allowed), expected)
+    torch.testing.assert_close(layer.ffn(x), layer.ffn.second(F.relu(layer.ffn.first(x))))
+
+
+def test_decoder_cross_attention_uses_encoder_memory():
+    layer = DecoderLayer(tiny()).eval()
+    x, memory = torch.randn(1, 3, 16), torch.randn(1, 5, 16)
+    target_allowed = torch.ones(3, 3, dtype=torch.bool).tril()[None, None]
+    source_allowed = torch.ones(1, 1, 1, 5, dtype=torch.bool)
+    a = layer.norm1(x + layer.self_attention(x, x, x, target_allowed))
+    b = layer.norm2(a + layer.cross_attention(a, memory, memory, source_allowed))
+    expected = layer.norm3(b + layer.ffn(b))
+    torch.testing.assert_close(layer(x, memory, target_allowed, source_allowed), expected)
+    assert not torch.allclose(expected, layer(x, memory + 1.0, target_allowed, source_allowed))
+
+
+def test_model_causal_property_source_padding_and_weight_tying():
+    torch.manual_seed(42)
+    model = Transformer2017(tiny()).eval()
+    source, target = toy_batch()
+    inputs, _ = teacher_forcing(target)
+    actual = model(source, inputs)
+    modified = inputs.clone()
+    modified[:, -1] = 9
+    torch.testing.assert_close(actual[:, :-1], model(source, modified)[:, :-1])
+    assert actual.shape == (2, 4, 16)
+    assert model.generator.weight is model.source_position.embedding.weight
+    assert model.generator.weight is model.target_position.embedding.weight
+    memory = model.encode(source)
+    changed = memory.clone()
+    changed[source == 0] = 1e4
+    torch.testing.assert_close(model.decode(inputs, memory, source), model.decode(inputs, changed, source))
+
+
+def test_smoothing_distribution_empty_labels_and_noam():
+    logits = torch.randn(1, 2, 5, dtype=torch.float64, requires_grad=True)
+    labels = torch.tensor([[2, 0]])
+    expected_distribution = torch.tensor([.025, .025, .9, .025, .025], dtype=torch.float64)
+    expected = -(expected_distribution * F.log_softmax(logits[0, 0], dim=-1)).sum()
+    torch.testing.assert_close(label_smoothed_loss(logits, labels), expected)
+    loss = label_smoothed_loss(logits, torch.zeros_like(labels))
+    loss.backward()
+    assert torch.equal(logits.grad, torch.zeros_like(logits))
+    assert noam_lr(3999, 512) < noam_lr(4000, 512) > noam_lr(4001, 512)
+
+
+def test_train_update_and_decode_restore_mode():
+    torch.manual_seed(42)
+    model = Transformer2017(tiny())
+    optimizer = torch.optim.Adam(model.parameters(), betas=(.9, .98), eps=1e-9)
+    source, target = toy_batch()
+    before = model.generator.weight.detach().clone()
+    assert math.isfinite(train_step(model, optimizer, source, target, 1, warmup=8))
+    assert not torch.equal(before, model.generator.weight)
+    result = greedy_decode(model, source, max_new_tokens=4)
+    assert model.training
+    assert result.shape[0] == 2 and result.shape[1] <= 5
+    assert (result[:, 0] == 1).all()
+
+
+def test_small_copy_reverse_task_can_be_learned():
+    torch.manual_seed(42)
+    model = Transformer2017(tiny())
+    optimizer = torch.optim.Adam(model.parameters(), betas=(.9, .98), eps=1e-9)
+    source, target = toy_batch()
+    for step in range(1, 151):
+        train_step(model, optimizer, source, target, step, warmup=20)
+    model.eval()
+    inputs, labels = teacher_forcing(target)
+    logits = model(source, inputs)
+    valid = labels != 0
+    assert (logits.argmax(-1)[valid] == labels[valid]).all()
+    generated = greedy_decode(model, source, 4)
+    assert generated[0].tolist() == [1, 5, 4, 3, 2]
+    assert generated[1].tolist() == [1, 7, 6, 2, 0]
+17:["$","main",null,{"id":"practice-main","className":"lab-course-main","tabIndex":-1,"children":[["$","nav",null,{"className":"lab-breadcrumb","aria-label":"학습 경로","children":[["$","$L15",null,{"href":"/practice","children":"Labs"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Models"}]]}],["$","header",null,{"className":"lab-page-header","children":[["$","h1",null,{"children":"Transformer"}],null]}],["$","$L22",null,{"implementation":"$23","tests":"$24","verification":{"testedAt":"2026-10-09","tests":12,"torch":"2.14.1+cpu","python":"3.12.14","device":"CPU / Windows","summary":"............                                                             [100%]\n12 passed in 3.55s","smoke":"step=1 loss=4.002570 lr=0.011049\nstep=2 loss=2.854525 lr=0.022097\nstep=3 loss=2.121744 lr=0.033146\nstep=4 loss=1.861786 lr=0.044194\nlogits shape: (2, 4, 16)\ngreedy IDs: [[1, 5, 3, 2], [1, 6, 2, 0]]\nSMOKE PASS - synthetic inputs, not WMT/BLEU reproduction","implementationSha256":"4bca94e13a8355e644145f352ba7688c14b2c0e63c7cc6c76b796c0eb4e2a89d","testSha256":"5f6080bbe771d21ea0ad4f1a787a0385fbe24cdc03c4d375c3cb167236166f96"}}]]}]
+18:["$","footer",null,{"className":"archive-footer","children":[["$","div",null,{"className":"archive-footer-inner","children":[["$","div",null,{"className":"archive-footer-brand","children":["$","$L15",null,{"href":"/","children":"김우식"}]}],["$","nav",null,{"className":"archive-footer-nav","aria-label":"하단 메뉴","children":[["$","$L15","/projects",{"href":"/projects","children":"프로젝트"}],["$","$L15","/learning",{"href":"/learning","children":"Learnings"}],["$","$L15","/papers",{"href":"/papers","children":"논문"}],["$","$L15","/search",{"href":"/search","children":"검색"}],["$","$L15","/write",{"href":"/write","children":"작성 도구"}]]}],["$","nav",null,{"className":"archive-footer-external","aria-label":"외부 링크","children":[["$","a","https://github.com/cmkkws",{"href":"https://github.com/cmkkws","rel":"noreferrer","target":"_blank","children":["GitHub",["$","$L16",null,{"ref":"$undefined","iconNode":"$8:props:children:0:props:children:2:props:children:0:props:children:1:props:iconNode","className":"lucide-external-link","aria-hidden":"true"}]]}],["$","a","https://velog.io/@cmkkws/posts",{"href":"https://velog.io/@cmkkws/posts","rel":"noreferrer","target":"_blank","children":["Velog",["$","$L16",null,{"ref":"$undefined","iconNode":"$8:props:children:0:props:children:2:props:children:0:props:children:1:props:iconNode","className":"lucide-external-link","aria-hidden":"true"}]]}],["$","a","https://github.com/cmkkws/layerlab-study",{"href":"https://github.com/cmkkws/layerlab-study","rel":"noreferrer","target":"_blank","children":["Repository",["$","$L16",null,{"ref":"$undefined","iconNode":"$8:props:children:0:props:children:2:props:children:0:props:children:1:props:iconNode","className":"lucide-external-link","aria-hidden":"true"}]]}]]}]]}],["$","div",null,{"className":"archive-footer-bottom","children":["$","span",null,{"children":["© ",2026," 김우식"]}]}]]}]
+19:["$","script","script-0",{"src":"/_next/static/chunks/12hy9wrxdev~4.js","async":true,"nonce":"$undefined"}]
+1a:["$","script","script-1",{"src":"/_next/static/chunks/0o9y1-lb7j9_1.js","async":true,"nonce":"$undefined"}]
+1b:["$","$L25",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f6f8","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#101822","media":"(prefers-color-scheme: dark)"}],["$","meta","4",{"name":"color-scheme","content":"light dark"}]]
+27:I[99864,["/_next/static/chunks/04opn5reav6.l.js","/_next/static/chunks/0ig2i56s.ue9f.js"],"IconMark"]
+21:[["$","title","0",{"children":"Transformer · PyTorch implementation | 김우식"}],["$","meta","1",{"name":"description","content":"Attention Is All You Need의 encoder–decoder 구조를 10개 Step으로 직접 구현한다."}],["$","meta","2",{"name":"application-name","content":"김우식 포트폴리오"}],["$","meta","3",{"name":"keywords","content":"데이터 사이언스,머신러닝,딥러닝,추천 시스템,통계 분석,포트폴리오"}],["$","link","4",{"rel":"canonical","href":"https://cmkkws.github.io/practice/models/transformer/"}],["$","meta","5",{"property":"og:title","content":"Transformer · PyTorch implementation"}],["$","meta","6",{"property":"og:description","content":"Attention Is All You Need의 encoder–decoder 구조를 10개 Step으로 직접 구현한다."}],["$","meta","7",{"property":"og:url","content":"https://cmkkws.github.io/practice/models/transformer/"}],["$","meta","8",{"property":"og:site_name","content":"김우식 포트폴리오"}],["$","meta","9",{"property":"og:locale","content":"ko_KR"}],["$","meta","10",{"property":"og:image","content":"https://cmkkws.github.io/og-portfolio-v3.png"}],["$","meta","11",{"property":"og:image:width","content":"1774"}],["$","meta","12",{"property":"og:image:height","content":"887"}],["$","meta","13",{"property":"og:image:alt","content":"김우식 데이터 사이언스 포트폴리오"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Transformer · PyTorch implementation"}],["$","meta","17",{"name":"twitter:description","content":"Attention Is All You Need의 encoder–decoder 구조를 10개 Step으로 직접 구현한다."}],["$","meta","18",{"name":"twitter:image","content":"https://cmkkws.github.io/og-portfolio-v3.png"}],["$","meta","19",{"name":"twitter:image:alt","content":"김우식 데이터 사이언스 포트폴리오"}],["$","meta","20",{"name":"twitter:image:width","content":"1774"}],["$","meta","21",{"name":"twitter:image:height","content":"887"}],["$","link","22",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","23",{"rel":"icon","href":"/favicon.svg"}],["$","$L27","24",{}]]
+26:null
