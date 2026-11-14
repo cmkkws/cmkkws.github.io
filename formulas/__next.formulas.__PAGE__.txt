@@ -2,5 +2,5 @@
 2:I[5058,["9597","static/chunks/9597-5e9b06ef45c01517.js","544","static/chunks/544-65eff6b8a5e350e4.js","1710","static/chunks/1710-b68483258b130c89.js","9171","static/chunks/9171-dd64d812ae1c04cf.js","3424","static/chunks/app/formulas/page-1efd202b95f8059b.js"],"FormulaLibraryPage"]
 3:I[5666,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0j_qNgSZYTvWfFFF-rhVg"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XK-Tfciz4A4A0b8LJc0lK"}
 5:null
